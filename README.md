@@ -1,5 +1,3 @@
-[AMEMAIS PROJETO.pdf](https://github.com/Daniellssf/gestao-laboratorial-spring-mvc/files/6788155/AMEMAIS.PROJETO.pdf)
-
 # Gestão de exames Laboratoriais _______________________________________________________________
 
 ## Documento de Requisitos:
