@@ -1,4 +1,4 @@
-# Gestão de exames Laboratoriais ___________________________________________________________________
+# Gestão de exames Laboratoriais _______________________________________________________________
 
 ## Documento de Requisitos:
 
