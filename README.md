@@ -6,7 +6,7 @@
 
 **1.1 - Propósito do documento de requisitos**
 
-Este documento destina-se aos clientes, engenheiros e gerentes envolvidos no desenvolvimento do sistema, doravante referido apenas como Gestão de exames Laboratoriais. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema a ser desenvolvido deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e foi preparado levando-se em conta as funcionalidades levantadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros e gerentes envolvidos no desenvolvimento do sistema, doravante referido apenas como Gestão de exames Laboratoriais. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema a ser desenvolvido deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e foi preparado levando-se em conta as funcionalidades levantadas durante a fase de concepção do sistema e pode ser visto por completo através do link https://github.com/Daniellssf/gestao-laboratorial-spring-mvc/blob/736d5fb383d8b57f2da76c59c48b2659e43362d0/AMEMAIS%20PROJETO.pdf.
 
 **1.2 - Escopo do produto**
 
