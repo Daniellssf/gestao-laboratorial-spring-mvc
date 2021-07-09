@@ -40,6 +40,3 @@ O diagrama de casos de uso, expresso em UML (Unified Modeling Language), express
 ### **4 - Diagrama de Classes**
 
 ![image](https://user-images.githubusercontent.com/82054649/125011108-35caa800-e03e-11eb-9cc2-ec2a44bab262.png)
-
-https://github.com/Daniellssf/gestao-laboratorial-spring-mvc/blob/b19d4faabb76516922066cc59d43f7c465591580/AMEMAIS%20PROJETO.pdf
-
